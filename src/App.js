@@ -11,7 +11,7 @@ import Profile from "./routes/Profile";
 
 function App() {
   return (
-    <BrowserRouter basename={process.heam78.PUBLIC_URL}>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Friends />} />
         <Route path="/chats" element={<Chats />} />
