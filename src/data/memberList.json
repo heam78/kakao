@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "name": "My name",
+    "profileImg": "https://i.pinimg.com/564x/e8/76/6f/e8766f51bd06df933c1a29a450e511d5.jpg",
+    "profileMsg": "Hello I always want to be happy",
+    "email": "UserId@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/750x/2c/cf/53/2ccf530f0f0003284f3e93a86b1ae2e8.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 1,
+    "name": "Bret",
+    "profileImg": "https://i.pinimg.com/564x/7d/78/5a/7d785ad641df41a9104e7bc444e0d397.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Amelia@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/750x/18/10/e4/1810e404582351d6764907eac601345d.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 2,
+    "name": "Antonette",
+    "profileImg": "https://i.pinimg.com/564x/a5/a6/ad/a5a6adbb95e0bcdf7e2ee9b387dfe128.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Bella@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/564x/1f/5f/c2/1f5fc2842e35d837b4bcae5e5556e66d.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 3,
+    "name": "Samantha",
+    "profileImg": "https://i.pinimg.com/564x/36/0e/6e/360e6e1318dd257c51f01f37cf27c862.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Everly@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/564x/80/3b/e7/803be7001fee7d687971975705309a72.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 4,
+    "name": "Karianne",
+    "profileImg": "https://i.pinimg.com/564x/20/0f/e4/200fe403b3e175020709a46964b599e4.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Florence@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/564x/d4/ea/81/d4ea81bb9c88a9a3fa6c16b0fecbd933.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 5,
+    "name": "Kamren",
+    "profileImg": "https://i.pinimg.com/564x/be/b9/d6/beb9d6370002aafbccd579696c463711.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Liam@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/564x/a5/90/7a/a5907ac7c985e9579a3905240a5c2b9a.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 6,
+    "name": "Leopoldo",
+    "profileImg": "https://i.pinimg.com/564x/c7/5d/e8/c75de8c410336a8b38720b1aa017df8e.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Noah@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/564x/99/ef/2c/99ef2ccbc6c43968f72caf6ae95ba96e.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 7,
+    "name": "Elwyn",
+    "profileImg": "https://i.pinimg.com/564x/02/37/92/023792bfaf77af6e03c748a38fb70b70.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Elijah@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/736x/b4/ed/ba/b4edba9f8d36791c19d3d36815dc533d.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 8,
+    "name": "Maxime",
+    "profileImg": "https://i.pinimg.com/564x/0e/0f/a1/0e0fa13985b3bee2f03ffb33e00df063.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Ethan@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/736x/42/a0/b6/42a0b6f9156d435ace78ba9ddd0e52b1.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 9,
+    "name": "Delphine",
+    "profileImg": "https://i.pinimg.com/564x/08/a2/a1/08a2a1639d11bf09cf0ee1f4b341dec0.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Daniel@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/564x/df/67/da/df67da77bfbeef8d926e72e4d9f4a82b.jpg",
+    "chatMag": "Hello! This is a test message!"
+  },
+  {
+    "id": 10,
+    "name": "Moriah",
+    "profileImg": "https://i.pinimg.com/236x/a6/f9/33/a6f93349372b05c312c662d6f6955ae0.jpg",
+    "profileMsg": "Have a good day, see you soon.",
+    "email": "Daniel@gmail.com",
+    "backgroundImg": "https://i.pinimg.com/564x/df/67/da/df67da77bfbeef8d926e72e4d9f4a82b.jpg",
+    "chatMag": "Hello! This is a test message!"
+  }
+]

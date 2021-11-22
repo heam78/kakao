@@ -1,0 +1,47 @@
+main {
+  height: 85.8%;
+  padding-top: 64px;
+  .find_method {
+    display: flex;
+    align-items: center;
+    height: 80px;
+    background: #eee;
+    .find_icon {
+      overflow: hidden;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      color: #513736;
+      transition: transform 300ms linear 0s;
+      font-size: 12px;
+      i {
+        font-size: 22px;
+        margin: 5px 0;
+      }
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  }
+  .recommend_section {
+    h2 {
+      height: 22px;
+      line-height: 22px;
+      text-indent: 15px;
+      color: #8e9399;
+      font-size: 16px;
+    }
+
+    span {
+      display: block;
+      height: 56px;
+      line-height: 54px;
+      border-top: 1px solid #ebebeb;
+      border-bottom: 1px solid #ebebeb;
+      text-align: center;
+      color: #8e9399;
+      font-size: 14px;
+    }
+  }
+}
